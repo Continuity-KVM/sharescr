@@ -1,5 +1,6 @@
 //! Cross-platform crate for sharing a computer's screen(s).
 #![deny(
+    warnings,
     missing_copy_implementations,
     missing_debug_implementations,
     missing_docs,
